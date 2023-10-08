@@ -16,10 +16,9 @@ so everyone is happy!
 
 ## Table of Contents 📖
 
-- [Repository Link](#link)
+- [Deployed Link](#link)
 - [Usage](#usage)
 - [Tests](#tests)
-- [Usage](#usage)
 - [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
@@ -34,8 +33,6 @@ so everyone is happy!
 User testing
 
 ## Usage &#128161;
-
-[Repository link:](https://github.com/123sites/bark-buddy)
 
 This can be used for anyone needing to find the right dog for them!
 Also, they can find a shelter and donate!
