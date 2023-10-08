@@ -17,8 +17,8 @@ so everyone is happy!
 ## Table of Contents 📖
 
 - [Deployed Link](#link)
-- [Usage](#usage)
 - [Tests](#tests)
+- [Usage](#usage)
 - [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
