@@ -27,7 +27,7 @@ so everyone is happy!
 
 ## Deployed Link 🔑
 
-[Link:](https://cf-bark-buddy.herokuapp.com)
+[Bark-Buddy](http://barkbuddy.workbytes.net/)
 
 ## Tests 🧪
 
